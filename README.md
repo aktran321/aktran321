@@ -1,5 +1,9 @@
 <h1>Hi, I'm Khang! <br/>Aspiring Cybersecurity Professional</h1>
 
+<h2>🎓 Education</h2>
+
+- Bachelor of Science in Mechanical Engineering from The University of Maryland College Park
+
 <h2>📚 Certifications</h2>
 
 - CompTIA Security+
