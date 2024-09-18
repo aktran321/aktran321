@@ -4,7 +4,7 @@
 
 - AWS Pentesting labs over on <b>[PwnedLabs](https://pwnedlabs.io)</b>
 - AWS Security Specialty Certification
-- 
+  
 <h2>👨‍💻 Projects I've Worked On:</h2>
 
 - <b>[Honeynet and SOC](https://github.com/aktran321/Azure-Honeynet)</b>
