@@ -3,7 +3,7 @@
 <h2></h2>
 
 <h2>📚Currently working on...</h2>
-<p>AWS Security Specialty certification and AWS Pentesting labs over on [Pwned Labs](https://pwnedlabs.io/)</p>
+AWS Security Specialty certification and AWS Pentesting labs over on [Pwned Labs](https://pwnedlabs.io/)
 
 <h2>👨‍💻 Projects I've Worked On:</h2>
 
