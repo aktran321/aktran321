@@ -1,5 +1,10 @@
 <h1>Hi, I'm Khang! <br/>Aspiring Cybersecurity Professional</h1>
 
+<h2></h2>
+
+<h2>📚Currently working on...</h2>
+<p>AWS Security Specialty certification and AWS Pentesting labs over on [Pwned Labs](https://pwnedlabs.io/)</p>
+
 <h2>👨‍💻 Projects I've Worked On:</h2>
 
 - <b>[Shoptop](https://github.com/aktran321/shoptop)</b>
@@ -15,7 +20,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="KhangTran | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/khang-tran-622a44163/
 
