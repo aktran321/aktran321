@@ -1,10 +1,9 @@
 <h1>Hi, I'm Khang! <br/>Aspiring Cybersecurity Professional</h1>
 
-<h2></h2>
-
 <h2>📚Currently working on...</h2>
-AWS Security Specialty certification and AWS Pentesting labs over on [Pwned Labs](https://pwnedlabs.io/)
 
+- AWS Pentesting labs over on <b>[PwnedLabs](https://pwnedlabs.io)</b>
+- AWS Security Specialty Certification
 <h2>👨‍💻 Projects I've Worked On:</h2>
 
 - <b>[Shoptop](https://github.com/aktran321/shoptop)</b>
