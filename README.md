@@ -1,13 +1,12 @@
 <h1>Hi, I'm Khang! <br/>Aspiring Cybersecurity Professional</h1>
 
-<h2>📚Currently working on...</h2>
+<h2>📚 Currently working on...</h2>
 
 - AWS Pentesting labs over on <b>[PwnedLabs](https://pwnedlabs.io)</b>
 - AWS Security Specialty Certification
+- 
 <h2>👨‍💻 Projects I've Worked On:</h2>
 
-- <b>[Shoptop](https://github.com/aktran321/shoptop)</b>
-  - Full Stack Web App utilizing: Python3, Django, AWS, Javascript, S3
 - <b>[Honeynet and SOC](https://github.com/aktran321/Azure-Honeynet)</b>
   - Cloud architecture utilizing: Azure, Microsoft Sentinel, Microsoft Defender for Cloud, Virtual Machines, NIST
 - <b>[Cloud Resume Challenge](https://github.com/aktran321/cloud-resume-challenge)</b>
@@ -16,6 +15,8 @@
   - Further practiced using Terraform and triggering CloudWatch alerts to automatically scale-in and out EC2 instances for cost optimization 
 - <b>[KubeDjango](https://github.com/aktran321/KubeDjango)</b>
   - Practiced using AWS ECS and EKS to launch applications with Kubernetes
+- <b>[Shoptop](https://github.com/aktran321/shoptop)</b>
+  - Full Stack Web App utilizing: Python3, Django, AWS, Javascript, S3
 
 <h2> 🤳 Connect with me:</h2>
 
