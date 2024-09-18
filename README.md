@@ -19,8 +19,8 @@
 
 - <b>[Shoptop](https://github.com/aktran321/shoptop)</b>
   - Full Stack Web App utilizing: Python3, Django, AWS, Javascript, S3
-- <b>[Honeynet and SOC](https://github.com/aktran321/Azure-Honeynet)</b>
-  - Cloud architecture utilizing: Azure, Microsoft Sentinel, Microsoft Defender for Cloud, Virtual Machines, NIST
+- <b>[Azure Honeynet](https://github.com/aktran321/Azure-Honeynet)</b>
+  - SOC utilizing: Azure, Microsoft Sentinel, Microsoft Defender for Cloud, Virtual Machines, NIST
 - <b>[Cloud Resume Challenge](https://github.com/aktran321/cloud-resume-challenge)</b>
   - Simple website hosted on AWS, using: API Gateway, Lambda, DynamoDB, Python, Django, Javascript, S3, CloudFront, Terraform
 - <b>[Auto-Scaling Web Server](https://github.com/aktran321/AutoScalingWebServer)</b>
