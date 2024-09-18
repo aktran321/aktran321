@@ -1,7 +1,31 @@
-## Hi there 👋
+<h1>Hi, I'm Khang! <br/>Aspiring Cybersecurity Professional</h1>
+
+<h2>👨‍💻 Projects I've Worked On:</h2>
+
+- <b>[Shoptop](https://github.com/aktran321/shoptop)</b>
+  - Full Stack Web App utilizing: Python3, Django, AWS, Javascript, S3
+- <b>[Honeynet and SOC](https://github.com/aktran321/Azure-Honeynet)</b>
+  - Cloud architecture utilizing: Azure, Microsoft Sentinel, Microsoft Defender for Cloud, Virtual Machines, NIST
+- <b>[Cloud Resume Challenge](https://github.com/aktran321/cloud-resume-challenge)</b>
+  - Simple website hosted on AWS, using: API Gateway, Lambda, DynamoDB, Python, Django, Javascript, S3, CloudFront, Terraform
+- <b>[Auto-Scaling Web Server](https://github.com/aktran321/AutoScalingWebServer)</b>
+  - Further practiced using Terraform and triggering CloudWatch alerts to automatically scale-in and out EC2 instances for cost optimization 
+- <b>[KubeDjango](https://github.com/aktran321/KubeDjango)</b>
+  - Practiced using AWS ECS and EKS to launch applications with Kubernetes
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/khang-tran-622a44163/
 
 <!--
-**aktran321/aktran321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
