@@ -19,12 +19,12 @@
 
 <h2>👨‍💻 Projects I've Worked On:</h2>
 
-- <b>[Shoptop](https://github.com/aktran321/shoptop)</b>
-  - Full Stack Web App utilizing: Python3, Django, AWS, Javascript, S3
 - <b>[Azure Honeynet](https://github.com/aktran321/Azure-Honeynet)</b>
   - SOC utilizing: Azure, Microsoft Sentinel (SIEM), Microsoft Defender for Cloud, Virtual Machines, NIST
 - <b>[Cloud Resume Challenge](https://github.com/aktran321/cloud-resume-challenge)</b>
   - Simple website hosted on AWS, using: API Gateway, Lambda, DynamoDB, Python, Django, Javascript, S3, CloudFront, Terraform
+- <b>[Shoptop](https://github.com/aktran321/shoptop)</b>
+  - Full Stack Web App utilizing: Python3, Django, AWS, Javascript, S3
 - <b>[Auto-Scaling Web Server](https://github.com/aktran321/AutoScalingWebServer)</b>
   - Further practiced using Terraform and triggering CloudWatch alerts to automatically scale-in and out EC2 instances for cost optimization 
 - <b>[KubeDjango](https://github.com/aktran321/KubeDjango)</b>
