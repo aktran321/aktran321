@@ -1,16 +1,14 @@
 <h1>Hi, I'm Khang! <br/>Aspiring Cybersecurity Professional</h1>
 
-<h2>🎓 Education and Certifications</h2>
+<h2>🎓 Education</h2>
 
 - Bachelor of Science in Mechanical Engineering from The University of Maryland College Park
-- CompTIA Security+ (Issued 2024)
-- AWS Solutions Architect Associate (Issued 2023)
 
 <h2>📚 Certifications</h2>
 
-- CompTIA Security+
-- AWS Solutions Architect Associate
-- Meta Backend Developer
+- CompTIA Security+ (Issued August 2024)
+- AWS Solutions Architect Associate (Issued July 2023)
+- Meta Backend Developer (Issued January 2023)
 
 <h2>💪 Currently working on...</h2>
 
