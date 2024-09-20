@@ -6,6 +6,7 @@
 
 <h2>📚 Certifications</h2>
 
+- LeveldCareers Cybersecurity Analyst (Issued September 2024)
 - CompTIA Security+ (Issued August 2024)
 - AWS Solutions Architect Associate (Issued July 2023)
 - Meta Backend Developer (Issued January 2023)
