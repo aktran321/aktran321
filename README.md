@@ -13,8 +13,7 @@
 
 <h2>💪 Currently working on...</h2>
 
-- AWS Pentesting labs over on <b>[PwnedLabs](https://pwnedlabs.io)</b>
-- AWS Security Specialty Certification
+- Pentration Tester pathway over on <b>[HackTheBox](https://academy.hackthebox.com/)</b>
 
 <h2>👨‍💻 Projects I've Worked On:</h2>
 
