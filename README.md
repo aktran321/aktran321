@@ -13,7 +13,8 @@
 
 <h2>💪 Currently working on...</h2>
 
-- Pentration Tester pathway over on <b>[HackTheBox](https://academy.hackthebox.com/)</b>
+- Completing the Penetration Tester pathway on <b>[HackTheBox Academy](https://academy.hackthebox.com/)</b>
+- Solving boxes on <b>[HackTheBox](https://app.hackthebox.com/home)</b>
 
 <h2>👨‍💻 Projects I've Worked On:</h2>
 
