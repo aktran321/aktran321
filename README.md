@@ -11,11 +11,6 @@
 - AWS Solutions Architect Associate (Issued July 2023)
 - Meta Backend Developer (Issued January 2023)
 
-<h2>💪 Currently working on...</h2>
-
-- Completing the Penetration Tester pathway on <b>[HackTheBox Academy](https://academy.hackthebox.com/)</b>
-- Solving boxes on <b>[HackTheBox](https://app.hackthebox.com/home)</b>
-
 <h2>👨‍💻 Projects I've Worked On:</h2>
 
 - <b>[Azure Honeynet](https://github.com/aktran321/Azure-Honeynet)</b>
@@ -28,6 +23,20 @@
   - Further practiced using Terraform and triggering CloudWatch alerts to automatically scale-in and out EC2 instances for cost optimization 
 - <b>[KubeDjango](https://github.com/aktran321/KubeDjango)</b>
   - Practiced using AWS ECS and EKS to launch applications with Kubernetes
+ 
+<h2>💪 Currently working on...</h2>
+
+- Penetration Tester pathway on <b>[HackTheBox Academy](https://academy.hackthebox.com/)</b>
+- Solving labs on <b>[HackTheBox](https://app.hackthebox.com/home)</b>
+    - Solved over 20 boxes utilizing:
+      - Bash/Linux
+      - Nmap
+      - Gobuster
+      - BurpSuite
+      - SQLi
+      - Impacket
+      - Reverse Shell scripts
+      - Hydra (password spraying)
 
 <h2> 🤳 Connect with me:</h2>
 
