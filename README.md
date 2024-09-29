@@ -31,6 +31,7 @@
     - Technologies used:
       - Bash/Linux
       - Nmap
+      - Netcat
       - Gobuster
       - BurpSuite
       - SMB
@@ -42,6 +43,7 @@
       - MongoDB
       - AWS S3
       - Hydra (password spraying)
+      - John The Ripper
 
 <h2> 🤳 Connect with me:</h2>
 
