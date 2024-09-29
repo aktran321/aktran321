@@ -33,9 +33,14 @@
       - Nmap
       - Gobuster
       - BurpSuite
+      - SMB
+      - FTP
       - SQLi
       - Impacket
       - Reverse Shell scripts
+      - MSSQL
+      - MongoDB
+      - AWS S3
       - Hydra (password spraying)
 
 <h2> 🤳 Connect with me:</h2>
