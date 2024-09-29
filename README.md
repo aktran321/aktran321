@@ -27,8 +27,8 @@
 <h2>💪 Currently working on...</h2>
 
 - Penetration Tester pathway on <b>[HackTheBox Academy](https://academy.hackthebox.com/)</b>
-- Solving labs on <b>[HackTheBox](https://app.hackthebox.com/home)</b>
-    - Solved over 20 boxes utilizing:
+- Solving CTF labs on <b>[HackTheBox](https://app.hackthebox.com/home)</b>
+    - Technologies used:
       - Bash/Linux
       - Nmap
       - Gobuster
