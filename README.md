@@ -14,7 +14,7 @@
 <h2>👨‍💻 Projects I've Worked On:</h2>
 
 - <b>[Azure Honeynet](https://github.com/aktran321/Azure-Honeynet)</b>
-  - SOC utilizing: Azure, Microsoft Sentinel (SIEM), Microsoft Defender for Cloud, Virtual Machines, NIST
+  - SOC utilizing: Azure, Microsoft Sentinel (SIEM), Microsoft Defender for Cloud, Virtual Machines, NIST, KQL
 - <b>[Cloud Resume Challenge](https://github.com/aktran321/cloud-resume-challenge)</b>
   - Simple website hosted on AWS, using: API Gateway, Lambda, DynamoDB, Python, Django, Javascript, S3, CloudFront, Terraform
 - <b>[Shoptop](https://github.com/aktran321/shoptop)</b>
