@@ -31,6 +31,8 @@
     - Technologies used:
       - Bash/Linux
       - Nmap
+        - SYN/ACK scans
+        - IDS/IPS evasion
       - Netcat
       - Gobuster
       - BurpSuite
