@@ -36,6 +36,8 @@
       - Netcat
       - Gobuster
       - BurpSuite
+      - Metasploit
+      - Msfvenom
       - SMB
       - FTP
       - SQLi
