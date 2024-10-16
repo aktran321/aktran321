@@ -47,6 +47,7 @@
       - MongoDB
       - AWS S3
       - CrackMapExec
+      - Lazagne
       - Hydra (password spraying)
       - John The Ripper
 
