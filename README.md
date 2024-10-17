@@ -30,6 +30,7 @@
 - Solving CTF labs on <b>[HackTheBox](https://app.hackthebox.com/home)</b>
     - Technologies used:
       - Bash/Linux
+      - Windows
       - Nmap
         - SYN/ACK scans
         - IDS/IPS evasion
@@ -50,6 +51,7 @@
       - Lazagne
       - Hydra (password spraying)
       - John The Ripper
+      - Kerberos
 
 <h2> 🤳 Connect with me:</h2>
 
