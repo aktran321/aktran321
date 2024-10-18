@@ -49,7 +49,7 @@
       - AWS S3
       - CrackMapExec
       - Lazagne
-      - Hydra (password spraying)
+      - Hydra
       - John The Ripper
       - Kerberos
 
