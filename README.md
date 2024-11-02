@@ -52,9 +52,10 @@
       - Hydra
       - John The Ripper
       - Kerberos
-      - Kerberoasting
+        - Kerberoasting
       - BloodHound
       - Mimikatz
+      - PowerShell
 
 <h2> 🤳 Connect with me:</h2>
 
