@@ -27,7 +27,7 @@
 <h2>💪 Currently working on...</h2>
 
 - Penetration Tester pathway on <b>[HackTheBox Academy](https://academy.hackthebox.com/)</b>
-- AWS Pentesting on [PWNED Labs](https://pwnedlabs.io/)
+- AWS Penetration Testing labs on [PWNED Labs](https://pwnedlabs.io/)
   - [S3 Enumeration](https://dev.to/aktran321/s3-enumeration-53hd)
 - Solving CTF labs on <b>[HackTheBox](https://app.hackthebox.com/home)</b>
     - Technologies used:
