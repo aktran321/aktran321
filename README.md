@@ -13,6 +13,7 @@
 
 <h2>👨‍💻 Projects I've Worked On:</h2>
 
+- <b>[Vulnerability Management Program](https://github.com/aktran321/vulnerability-management/tree/main)</b>
 - <b>[Azure Honeynet](https://github.com/aktran321/Azure-Honeynet)</b>
   - SOC utilizing: Azure, Microsoft Sentinel (SIEM), Microsoft Defender for Cloud, Virtual Machines, NIST, KQL
 - <b>[Cloud Resume Challenge](https://github.com/aktran321/cloud-resume-challenge)</b>
