@@ -13,10 +13,10 @@
 
 <h2>👨‍💻 Projects I've Worked On:</h2>
 
-- <b>[Vulnerability Management Program](https://github.com/aktran321/vulnerability-management/tree/main)</b>
-- <b> [Threat Hunting Scenario](https://github.com/aktran321/threat-hunting-scenario-tor)</b>
 - <b>[Azure Honeynet](https://github.com/aktran321/Azure-Honeynet)</b>
   - SOC utilizing: Azure, Microsoft Sentinel (SIEM), Microsoft Defender for Cloud, Virtual Machines, NIST, KQL
+- <b>[Vulnerability Management Program](https://github.com/aktran321/vulnerability-management/tree/main)</b>
+- <b> [Threat Hunting Scenario](https://github.com/aktran321/threat-hunting-scenario-tor)</b>
 - <b>[Cloud Resume Challenge](https://github.com/aktran321/cloud-resume-challenge)</b>
   - Simple website hosted on AWS, using: API Gateway, Lambda, DynamoDB, Python, Django, Javascript, S3, CloudFront, Terraform
 - <b>[Shoptop](https://github.com/aktran321/shoptop)</b>
@@ -25,48 +25,6 @@
   - Further practiced using Terraform and triggering CloudWatch alerts to automatically scale-in and out EC2 instances for cost optimization 
 - <b>[KubeDjango](https://github.com/aktran321/KubeDjango)</b>
   - Practiced using AWS ECS and EKS to launch applications with Kubernetes
- 
-<h2>💪 Currently working on...</h2>
-
-- Penetration Tester pathway on <b>[HackTheBox Academy](https://academy.hackthebox.com/)</b>
-- AWS Penetration Testing labs on [PWNED Labs](https://pwnedlabs.io/)
-  - Writeups:
-    - [S3 Enumeration](https://dev.to/aktran321/s3-enumeration-53hd)
-    - [SSRF Attack](https://dev.to/aktran321/ssrf-attack-1cf6)
-- Solving CTF labs on <b>[HackTheBox](https://app.hackthebox.com/home)</b>
-    - Technologies used:
-      - Bash/Linux
-      - Windows
-      - Nmap
-        - SYN/ACK scans
-        - IDS/IPS evasion
-      - Netcat
-      - Gobuster
-      - BurpSuite
-      - Metasploit
-      - Msfvenom
-      - SMB
-      - FTP
-      - SQLi
-      - Impacket
-      - Reverse Shell scripts
-      - MSSQL
-      - MongoDB
-      - AWS S3
-      - CrackMapExec
-      - Lazagne
-      - Hydra
-      - John The Ripper
-      - Kerberos
-        - Kerberoasting
-      - BloodHound
-      - Mimikatz
-      - PowerShell
-      - RDP
-      - Netsh
-      - ffuf
-      - LFI
-      - IDOR
 
 <h2> 🤳 Connect with me:</h2>
 
