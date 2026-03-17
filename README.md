@@ -17,6 +17,8 @@
   - SOC utilizing: Azure, Microsoft Sentinel (SIEM), Microsoft Defender for Cloud, Virtual Machines, NIST, KQL
 - <b>[Vulnerability Management Program](https://github.com/aktran321/vulnerability-management/tree/main)</b>
 - <b> [Threat Hunting Scenario](https://github.com/aktran321/threat-hunting-scenario-tor)</b>
+- <b> [Phishing Campaign](https://github.com/aktran321/phishing)</b>
+  - Simulated phishing attacks using GoPhish and Evilginx to study credential harvesting techniques and improve detection of phishing and adversary-in-the-middle attacks
 - <b>[Cloud Resume Challenge](https://github.com/aktran321/cloud-resume-challenge)</b>
   - Simple website hosted on AWS, using: API Gateway, Lambda, DynamoDB, Python, Django, Javascript, S3, CloudFront, Terraform
 - <b>[Shoptop](https://github.com/aktran321/shoptop)</b>
