@@ -14,9 +14,11 @@
 <h2>👨‍💻 Projects I've Worked On:</h2>
 
 - <b>[Azure Honeynet](https://github.com/aktran321/Azure-Honeynet)</b>
-  - SOC utilizing: Azure, Microsoft Sentinel (SIEM), Microsoft Defender for Cloud, Virtual Machines, NIST, KQL
+  - Built a honeynet in Azure to analyze network traffic between insecure and secure networks, performing incident response aligned with NIST 800-61 guidelines and ensuring NIST 800-53 compliance through Microsoft Defender for Cloud.
 - <b>[Vulnerability Management Program](https://github.com/aktran321/vulnerability-management/tree/main)</b>
+  - Implemented a vulnerability management protocol on a Windows VM using Tenable Nessus under DISA STIG guidelines. Automated remediation tasks with PowerShell scripts, reducing detected vulnerabilities by 75%.
 - <b> [Threat Hunting Scenario](https://github.com/aktran321/threat-hunting-scenario-tor)</b>
+  - Conducted a threat hunting investigation on a Windows VM using Microsoft Defender for Endpoint and KQL to detect unauthorized TOR browser usage. Queried DeviceFileEvents, DeviceProcessEvents, and DeviceNetworkEvents to trace file downloads, process execution, and TOR network connections. Isolated the compromised endpoint in MDE and escalated findings to management.
 - <b> [Phishing Campaign](https://github.com/aktran321/phishing)</b>
   - Simulated phishing attacks using GoPhish and Evilginx to study credential harvesting techniques and improve detection of phishing and adversary-in-the-middle attacks
 - <b>[Cloud Resume Challenge](https://github.com/aktran321/cloud-resume-challenge)</b>
