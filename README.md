@@ -23,12 +23,6 @@
   - Simulated phishing attacks using GoPhish and Evilginx to study credential harvesting techniques and improve detection of phishing and adversary-in-the-middle attacks
 - <b>[Cloud Resume Challenge](https://github.com/aktran321/cloud-resume-challenge)</b>
   - Simple website hosted on AWS, using: API Gateway, Lambda, DynamoDB, Python, Django, Javascript, S3, CloudFront, Terraform
-- <b>[Shoptop](https://github.com/aktran321/shoptop)</b>
-  - Full Stack Web App utilizing: Python3, Django, AWS, Javascript, S3
-- <b>[Auto-Scaling Web Server](https://github.com/aktran321/AutoScalingWebServer)</b>
-  - Further practiced using Terraform and triggering CloudWatch alerts to automatically scale-in and out EC2 instances for cost optimization 
-- <b>[KubeDjango](https://github.com/aktran321/KubeDjango)</b>
-  - Practiced using AWS ECS and EKS to launch applications with Kubernetes
 
 <h2> 🤳 Connect with me:</h2>
 
