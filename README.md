@@ -12,8 +12,10 @@
 - Meta Backend Developer (Issued January 2023)
 
 <h2>👨‍💻 Projects I've Worked On:</h2>
+
 - <b>[AI Threat Hunting Assistant](https://github.com/aktran321/AI-Threat-Hunter)</b>
   - An AI-driven threat hunting tool that integrates Azure and OpenAI APIs to query and analyze Microsoft Defender and Azure logs, enabling reconstruction of attacker activity, identification of the scope of compromise, and guidance on next investigative steps for analysts.
+  
 - <b>[Azure Honeynet](https://github.com/aktran321/Azure-Honeynet)</b>
   - Built a honeynet in Azure to analyze network traffic between insecure and secure networks, performing incident response aligned with NIST 800-61 guidelines and ensuring NIST 800-53 compliance through Microsoft Defender for Cloud.
 - <b>[Vulnerability Management Program](https://github.com/aktran321/vulnerability-management/tree/main)</b>
