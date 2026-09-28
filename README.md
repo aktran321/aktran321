@@ -1,4 +1,4 @@
-<h1>Hi, I'm Khang! <br/>Aspiring Cybersecurity Professional</h1>
+<h1>Hi, I'm Khang! </h1>
 
 <h2>🎓 Education</h2>
 
